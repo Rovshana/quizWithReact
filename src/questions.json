@@ -1,0 +1,325 @@
+[
+    {
+        "id": "1",
+        "question": "Ludwig Van Beethoven was born in 1770 in which city?",
+        "answers":[
+        {
+          "text": "Moscow",
+          "correct": false
+
+        },
+        {
+            "text": "Berlin",
+            "correct": true
+        },
+        {
+            "text": "New York",
+            "correct": false
+        },
+        {
+            "text": "Houston",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "2",
+        "question": "Which work belongs to the Jack London?",
+        "answers":[
+        {
+          "text": "Mystery of blue train",
+          "correct": false
+
+        },
+        {
+            "text": "The Lost world",
+            "correct": false
+        },
+        {
+            "text": "Jane Eyre",
+            "correct": false
+        },
+        {
+            "text": "Martin Edeen",
+            "correct": true
+        }
+       ]
+    },
+    {
+        "id": "3",
+        "question": "Which city is also known as 'Big Apple'? ",
+        "answers":[
+        {
+          "text": "Chicago",
+          "correct": false
+
+        },
+        {
+            "text": "San diago",
+            "correct": false
+        },
+        {
+            "text": "New York",
+            "correct": true
+        },
+        {
+            "text": "Los Angles",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "4",
+        "question": "What color is a mirror? ",
+        "answers":[
+        {
+          "text": "white",
+          "correct": false
+
+        },
+        {
+            "text": "green",
+            "correct": true
+        },
+        {
+            "text": "silver",
+            "correct": false
+        },
+        {
+            "text": "none",
+            "correct": false
+        }
+       ]
+    },
+
+    {
+        "id": "5",
+        "question": "When did the website `Facebook` launch? ",
+        "answers":[
+        {
+          "text": "2004",
+          "correct": true
+
+        },
+        {
+            "text": "2006",
+            "correct": false
+        },
+        {
+            "text": "2007",
+            "correct": false
+        },
+        {
+            "text": "2005",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "7",
+        "question": "Seoul is capital of which country ",
+        "answers":[
+        {
+          "text": "Russia",
+          "correct": false
+
+        },
+        {
+            "text": "Germany",
+            "correct": false
+        },
+        {
+            "text": "cub",
+            "correct": false
+        },
+        {
+            "text": "South Korea",
+            "correct": true
+        }
+       ]
+    },
+    {
+        "id": "8",
+        "question": "What do we call baby fox? ",
+        "answers":[
+        {
+          "text": "kitten",
+          "correct": false
+
+        },
+        {
+            "text": "piglet",
+            "correct": false
+        },
+        {
+            "text": "cub",
+            "correct": true
+        },
+        {
+            "text": "foal",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "9",
+        "question": " what is the meaning of this idiom 'bread and butter'? ",
+        "answers":[
+        {
+          "text": "breakfast",
+          "correct": false
+
+        },
+        {
+            "text": "dinner",
+            "correct": false
+        },
+        {
+            "text": "income",
+            "correct": true
+        },
+        {
+            "text": "dishes",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "10",
+        "question": " Who is the `Peter Pan's enemy`?",
+        "answers":[
+        {
+          "text": "Tinker Bell",
+          "correct": false
+
+        },
+        {
+            "text": "Ben ten",
+            "correct": false
+        },
+        {
+            "text": "Poison",
+        "correct": false
+        },
+        {
+            "text": "Capitan Hook",
+            "correct": true
+        }
+       ]
+    },
+    {
+        "id": "11",
+        "question": " Which work belongs to the Agatha Cristie?",
+        "answers":[
+        {
+          "text": "Cards on the Table",
+          "correct": true
+
+        },
+        {
+            "text": "Sister Carrie",
+            "correct": false
+        },
+        {
+            "text": "Wunthering Heights",
+        "correct": false
+        },
+        {
+            "text": "Othello",
+            "correct": true
+        }
+       ]
+    },
+    {
+        "id": "12",
+        "question": "Where was born Mark Twain?",
+        "answers":[
+        {
+          "text": "London",
+          "correct": false
+
+        },
+        {
+            "text": "Boston",
+            "correct": false
+        },
+        {
+            "text": "Berlin",
+        "correct": false
+        },
+        {
+            "text": "Florida",
+            "correct": true
+        }
+       ]
+    },
+    {
+        "id": "13",
+        "question": "What Us holiday is celebrated each year on July 4",
+        "answers":[
+        {
+          "text": "Black Friday",
+          "correct": false
+
+        },
+        {
+            "text": "Cristmas",
+            "correct": false
+        },
+        {
+            "text": "Independence day",
+        "correct": true
+        },
+        {
+            "text": "Holloween",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "14",
+        "question": "what is synonmy for `kicked the bucket`? ",
+        "answers":[
+        {
+          "text": "Passed away",
+          "correct": true
+
+        },
+        {
+            "text": "to be angry",
+            "correct": false
+        },
+        {
+            "text": "to be strong",
+        "correct": false
+        },
+        {
+            "text": "break",
+            "correct": false
+        }
+       ]
+    },
+    {
+        "id": "15",
+        "question": "The name of which other fruit is used to describe a very small and round tomato? ",
+        "answers":[
+        {
+          "text": "cherry",
+          "correct": true
+
+        },
+        {
+            "text": "Grape",
+            "correct": false
+        },
+        {
+            "text": "apricot",
+        "correct": false
+        },
+        {
+            "text": "apple",
+            "correct": false
+        }
+       ]
+    }
+]
